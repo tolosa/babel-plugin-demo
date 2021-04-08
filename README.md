@@ -6,13 +6,13 @@ Adds a new JS identifier called `answerToTheUltimateQuestionOfLifeTheUniverseAnd
 
 For example, it should convert this code:
 
-```
+```js
 console.log(`What is the answer?: ${answerToTheUltimateQuestionOfLifeTheUniverseAndEverything}`);
 ```
 
 ...to this one:
 
-```
+```js
 console.log(`What is the answer?: ${42}`);
 ```
 
