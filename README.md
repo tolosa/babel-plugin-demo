@@ -1,6 +1,6 @@
 # Babel plugin demo
 
-### Example about how to create and configure a simple custom babel plugin
+### Example about how to write and configure a simple custom babel plugin
 
 Adds a new JS identifier called `answerToTheUltimateQuestionOfLifeTheUniverseAndEverything`, that it will be replaced with the value `42` by Babel in compile time.
 
